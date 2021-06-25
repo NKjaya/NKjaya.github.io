@@ -1,0 +1,11 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat', sans-serrif;
+    background-image: url(Nature.jpg) no repeat cover cover; 
+    background-size: cover;
+}
+	
+
+
